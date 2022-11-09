@@ -43,6 +43,11 @@ h1
     text-shadow: 1px 1px 2px #000000;
 }
 
+.carousel-control-next,
+.carousel-control-prev /*, .carousel-indicators */ {
+    filter: invert(100%);
+}
+
 /* .center-crsl
 {
     display: flex;
