@@ -1,3 +1,54 @@
 h1{
     background: red;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Jessie Codes*/
+
+.container-1
+{
+    display:flex;
+    gap: 2em;
+    justify-content: center;
+    margin-bottom: 2rem;
+}
+
+.container-1 div{
+    display: flex;
+    border: 1px black solid;
+    padding: 10px;
+}
+
+.boxes
+{
+
+}
+
+.card
+{
+
+}
+
+.card-images
+{
+    height: 300px;
+}
