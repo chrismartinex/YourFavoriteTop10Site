@@ -15,8 +15,39 @@ h1{
 
 
 
+/* Universal */
+img
+{
+    
+    /* width: auto; */
+    height: 600px;
+    object-fit:scale-down;
+}
 
+.minWidth
+{
+    min-width: 400px;
+}
 
+h1
+{
+    display: flex;
+    justify-content: center;
+}
+
+.crsl-desc-font
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2vw;
+    color: red;
+    font-weight: bolder;
+}
+/* .flex
+{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+} */
 
 
 
@@ -24,43 +55,5 @@ h1{
 
 /*Jessie Codes*/
 
-.crsl-desc-font
-{
-    font-family: Arial, Helvetica, sans-serif;
-    color: aqua;
-}
 
-.container-1
-{
-    display:flex;
-    gap: 2em;
-    justify-content: center;
-    margin-bottom: 2rem;
-}
 
-.container-1 div{
-    display: flex;
-    border: 1px black solid;
-    padding: 10px;
-}
-
-.boxes
-{
-
-}
-
-.card
-{
-
-}
-
-.card-images
-{
-    height: 300px;
-}
-
-img
-{
-    width: auto;
-    height: 500px;
-}
