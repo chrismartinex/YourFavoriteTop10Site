@@ -1,5 +1,5 @@
 h1{
-    background: red;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
 }
 
 
@@ -46,6 +46,13 @@ h1
 .carousel-control-next,
 .carousel-control-prev /*, .carousel-indicators */ {
     filter: invert(100%);
+}
+
+.external-links-spacing
+{
+    display: flex;
+    justify-content: space-around;
+    margin: px;
 }
 
 /* .center-crsl
