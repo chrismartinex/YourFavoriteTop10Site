@@ -36,10 +36,10 @@ h1 {
   filter: invert(100%);
 }
 
+
 .external-links-spacing {
   display: flex;
   justify-content: space-around;
-  margin: px;
 }
 
 /* .center-crsl
