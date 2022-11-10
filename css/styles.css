@@ -28,10 +28,18 @@ h1 {
   float: left;
   margin-right: 3rem;
   shape-outside: circle(50%);
-  /* margin: 2em 0;
+  margin: 2em 0;
   padding: 2em;
-  box-shadow: 0 0 2rem --0.5rem; */
-}
+  box-shadow: 0 0 2rem --0.5rem;
+} 
+
+
+/* .codestack-image
+{
+  display: flex;
+  justify-content: space-between;
+  justify-content: center;
+} */
 
 /* Universal */
 .img-index {
