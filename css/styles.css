@@ -73,6 +73,12 @@ h1 {
   justify-content: space-around;
 }
 
+.flex-aboutVideo
+{
+  display: flex;
+  
+}
+
 /* .center-crsl
 {
     display: flex;
