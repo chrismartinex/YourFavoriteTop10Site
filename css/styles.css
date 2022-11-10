@@ -41,9 +41,12 @@ h1 {
   }
 
 .img-gadget {
+  display: flex;
   width: auto;
   height: 700px;
   object-fit:scale-down;
+  align-content:center;
+  justify-content: center;
 }
 
 .minWidth {
