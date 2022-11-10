@@ -22,6 +22,16 @@ h1 {
   justify-content: space-around;
   margin: px;
 }
+.codestack-image
+{
+  width: 250px;
+  float: left;
+  margin-right: 3rem;
+  shape-outside: circle(50%);
+  /* margin: 2em 0;
+  padding: 2em;
+  box-shadow: 0 0 2rem --0.5rem; */
+}
 
 /* Universal */
 .img-index {
