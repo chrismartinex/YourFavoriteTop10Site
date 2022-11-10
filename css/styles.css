@@ -1,6 +1,22 @@
 h1 {
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
 }
+.crsl1-desc-font {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: medium;
+  color: rgb(241, 20, 20);
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #000000;
+  text-align: center;
+}
+.crsl2-desc-font {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: medium;
+  color: rgb(241, 20, 20);
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #000000;
+  text-align: center;
+}
 .external-links-spacing {
   display: flex;
   justify-content: space-around;
